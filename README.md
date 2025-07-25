@@ -13,7 +13,7 @@ An aspiring frontend developer with a passion for creating delightful and user-f
 - 🧰 HTML • CSS • JavaScript • React • Tailwind  
 - 🐍 Python • PowerShell  
 - 📊 Power BI • Tableau  
-- 🌐 Git & GitHub | SAP BTP & FICO
+- 🌐 Git & GitHub 
 
 ---
 
